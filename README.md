@@ -1,4 +1,4 @@
-# cpad_assignment
+# cpad_assignment - Group 29
 
 To setup database on local use following command:
 
